@@ -13,7 +13,7 @@ global.APIKeys = {
 
 
 global.OWNER_REACT = '🧑🏻‍💻'
-global.REACT_NUMBER = '94714188730'
+global.REACT_NUMBER = '+923421635063'
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -34,22 +34,22 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94714188730'] //ur owner number
+global.vcardowner = ['+923421635063'] //ur owner number
 global.ownername = "NIPUNA " //ur owner name
 global.ytname = "YT: Nipuna-apps" //ur yt chanel name
 global.socialm = "GitHub: Nipuna-apps" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['714188730']
-global.ownertag = '714188730' //ur tag number
-global.botname = '⚜𝓑𝓵𝓾𝓮 𝓛𝓲𝓸𝓷𝓮⚜' //ur bot name
+global.owner = ['+923421635063']
+global.ownertag = '+923421635063' //ur tag number
+global.botname = '☙مُـــــرشـــــد عاصم' //ur bot name
 global.linkz = "https://github.com/Nipuna-apps/Blue-Lione-Bot.git" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/Nipuna-apps/Blue-Lione-Bot.git" //ur website to be displayed
 global.botscript = 'https://github.com/Nipuna-apps/Blue-Lione-Bot.git' //script link
 global.reactmoji = "❤" //ur menu react emoji
 global.themeemoji = "🎸" //ur theme emoji
-global.packname = "⚜𝓑𝓵𝓾𝓮 𝓛𝓲𝓸𝓷𝓮⚜ Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.packname = "☙مُـــــرشـــــد عاصم Stickers\n\n\n\n\n\n\n\n\n\n\n🤠🤠🤠 " //ur sticker watermark packname
 global.author = "NIPUNA" //ur sticker watermark author
 
 //Bot theme media
@@ -59,7 +59,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['714188730'] //ur premium numbers
+global.premium = ['+923421635063'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -83,17 +83,17 @@ global.ntilink = []
 global.sessionName = 'session'
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
-global.sp = '⚜'
+global.sp = '🤠'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin! 🇱🇰',
-    botAdmin: 'Bot Must Be Admin First! 🇱🇰',
-    owner: 'This Feature Is Only For Owner! 🇱🇰',
-    group: 'Feature Used Only For Groups! 🇱🇰',
-    private: 'Features Used Only For Private Chat! 🇱🇰',
-    bot: 'This Feature Is Only For Bot 🇱🇰',
-    wait: 'In wait 🇱🇰',
-    linkm: 'Where is the link? 🇱🇰',
+    admin: 'This Feature Is Only For Admin! ☙مُـــــرشـــــد عاصم',
+    botAdmin: 'Bot Must Be Admin First! ☙مُـــــرشـــــد عاصم',
+    owner: 'This Feature Is Only For Owner! ☙مُـــــرشـــــد عاصم',
+    group: 'Feature Used Only For Groups! ☙مُـــــرشـــــد عاصم',
+    private: 'Features Used Only For Private Chat! ☙مُـــــرشـــــد عاصم',
+    bot: 'This Feature Is Only For Bot ☙مُـــــرشـــــد عاصم',
+    wait: 'In wait ☙مُـــــرشـــــد عاصم',
+    linkm: 'Where is the link? ☙مُـــــرشـــــد عاصم',
     error: 'Error!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
