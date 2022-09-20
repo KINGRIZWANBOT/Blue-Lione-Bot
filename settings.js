@@ -35,8 +35,8 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['+923421635063'] //ur owner number
-global.ownername = "NIPUNA " //ur owner name
-global.ytname = "YT: Nipuna-apps" //ur yt chanel name
+global.ownername = "☙مُـــــرشـــــد عاصم " //ur owner name
+global.ytname = "YT: ☙مُـــــرشـــــد عاصم-apps" //ur yt chanel name
 global.socialm = "GitHub: Nipuna-apps" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
@@ -50,7 +50,7 @@ global.botscript = 'https://github.com/Nipuna-apps/Blue-Lione-Bot.git' //script 
 global.reactmoji = "❤" //ur menu react emoji
 global.themeemoji = "🎸" //ur theme emoji
 global.packname = "☙مُـــــرشـــــد عاصم Stickers\n\n\n\n\n\n\n\n\n\n\n🤠🤠🤠 " //ur sticker watermark packname
-global.author = "NIPUNA" //ur sticker watermark author
+global.author = "☙مُـــــرشـــــد عاصم" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
